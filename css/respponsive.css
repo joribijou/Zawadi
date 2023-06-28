@@ -41,6 +41,8 @@
     }
     .home-container {
       height: auto;
+      width: 100%;
+      
     }
     .image-container {
       height: 200px;
